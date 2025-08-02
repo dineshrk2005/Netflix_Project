@@ -32,7 +32,7 @@ netflix-data-analysis/
 
 ---
 
-## 📊 Visualizations (20+ Charts)
+## 📊 Visualizations (20 Charts)
 
 | Chart No. | Title                                           | Description                                         |
 |-----------|--------------------------------------------------|-----------------------------------------------------|
@@ -95,9 +95,9 @@ All charts will be saved in the `output_charts/` directory and can be included i
 - **Name:** Dinesh R
 - **Project:** Final Year B.Tech – Data Science
 - **College:** Anna University, Suguna College of Engineering
-- ![image alt](Netflix project/Netflix_Charts/content/figures)
 
----
+
+
 
 ## 📌 License
 
